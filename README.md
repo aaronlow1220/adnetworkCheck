@@ -1,7 +1,7 @@
 # AdNetwork Check
 
 ## Install
-** macOS **
+**macOS**
 ```sh
 python3 -m venv venv &
 source ./venv/bin/activate &
